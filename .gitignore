@@ -1,5 +1,7 @@
-#server
-./server/node_modules
-./server/uploads
-#client
-./client/node_modules
+# Pastas do servidor
+/server/node_modules
+/server/uploads
+/server/.env
+
+# Pastas do cliente
+/client/node_modules/
